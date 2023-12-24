@@ -17,6 +17,6 @@ I'm an OIer and also a *not so active* developer.
 - ...everything interesting :D
 
 # Contact
-- [Email]() (please, if you'd like a quick response)
+- [Email](mailto:qwqfranzfox@outlook.com) (please, if you'd like a quick response)
 - [Telegram](https://t.me/qwqFranzFox) (Not always online)
 - QQ: 1612416019
